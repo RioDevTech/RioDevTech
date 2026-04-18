@@ -29,7 +29,7 @@ I am an IT Support and Web Developer with a strong focus on delivering reliable 
 
 In the field of IT Support, I am experienced in installing and configuring operating systems, diagnosing and resolving hardware and software problems, and managing basic network configurations including MikroTik devices. I am able to quickly identify issues and provide effective solutions to minimize downtime and maintain optimal system performance.
 
-On the development side, I work with PHP Native, MySQL, and JavaScript to build web applications that are clean, efficient, and user-friendly. I focus on writing structured code, optimizing performance, and creating systems that are easy to maintain and scale.
+On the development side, I work with PHP Native, Codelgniter, MySQL, and JavaScript to build web applications that are clean, efficient, and user-friendly. I focus on writing structured code, optimizing performance, and creating systems that are easy to maintain and scale.
 
 I am continuously improving my skills in networking and backend development, aiming to become a well-rounded IT professional capable of handling both infrastructure and application development effectively.
 
