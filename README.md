@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:00F7FF&height=180&section=header&text=Rio%20Chandra&fontSize=40&fontColor=00F7FF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=180&section=header&text=Rio%20Chandra&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <br>
