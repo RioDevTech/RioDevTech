@@ -25,26 +25,13 @@
 
 ## About Me
 
-<p align="center">
-IT Support dan Web Developer yang fokus pada solusi teknis dan pengembangan aplikasi web yang efisien dan stabil.
-</p>
+I am an IT Support and Web Developer with a strong focus on delivering reliable technical solutions and building efficient, scalable web applications. I have hands-on experience in managing system environments, troubleshooting technical issues, and ensuring stable and secure IT operations across various platforms.
 
-<br>
+In the field of IT Support, I am experienced in installing and configuring operating systems, diagnosing and resolving hardware and software problems, and managing basic network configurations including MikroTik devices. I am able to quickly identify issues and provide effective solutions to minimize downtime and maintain optimal system performance.
 
-<p align="center">
-<strong>IT Support</strong><br>
-Instalasi & konfigurasi sistem operasi<br>
-Troubleshooting hardware & software<br>
-Konfigurasi jaringan (MikroTik)
-</p>
+On the development side, I work with PHP Native, MySQL, and JavaScript to build web applications that are clean, efficient, and user-friendly. I focus on writing structured code, optimizing performance, and creating systems that are easy to maintain and scale.
 
-<br>
-
-<p align="center">
-<strong>Web Development</strong><br>
-PHP Native, MySQL, JavaScript<br>
-Membangun aplikasi web yang clean & mudah digunakan
-</p>
+I am continuously improving my skills in networking and backend development, aiming to become a well-rounded IT professional capable of handling both infrastructure and application development effectively.
 
 <br><br>
 
