@@ -6,7 +6,7 @@
 <br>
 
 <!-- TITLE -->
-<h1 align="center">Rio Chandra</h1>
+<h1 align="center">Hello, I'm Rio Chandra.</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=520&lines=IT+Support+%26+Web+Developer;PHP+%7C+MySQL+%7C+MikroTik;Linux+%7C+Networking;Always+Improving" />
