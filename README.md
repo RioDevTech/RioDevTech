@@ -1,39 +1,83 @@
-# 👋 Hello World
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Rio Chandra</h1>
 
-Saya adalah seorang IT Support dan Web Developer yang berfokus pada solusi teknis dan pengembangan aplikasi web.  
-Di bidang IT Support, saya terbiasa melakukan instalasi dan konfigurasi sistem operasi, troubleshooting hardware dan software, serta konfigurasi jaringan dasar termasuk MikroTik.  
-
-Di bidang Web Development, saya menggunakan PHP Native, MySQL, dan JavaScript untuk membangun aplikasi web yang sederhana, efisien, dan mudah digunakan.  
-
-Saya terus mengembangkan kemampuan di bidang jaringan dan backend development untuk menjadi profesional yang lebih kompeten.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=IT+Support+%26+Web+Developer;PHP+%7C+MySQL+%7C+MikroTik;Always+Learning+%F0%9F%9A%80" />
+</p>
 
 ---
 
-## 🌐 Socials:
-[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://tiktok.com/@riyoomc12)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@RiyoooMC12)
+<!-- GIF -->
+<p align="center">
+  <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohriI8PI6FXy8c9PWtBlqAVlU5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" width="500"/>
+</p>
 
 ---
 
-## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
+## 👨‍💻 About Me
+Saya adalah seorang **IT Support dan Web Developer** yang berfokus pada solusi teknis dan pengembangan aplikasi web.  
 
-<!-- Tambahan IT Support -->
-![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MikroTik](https://img.shields.io/badge/mikrotik-293239?style=for-the-badge&logo=router&logoColor=white)
+💻 IT Support:
+- Instalasi & konfigurasi sistem operasi  
+- Troubleshooting hardware & software  
+- Konfigurasi jaringan dasar (MikroTik)  
+
+🌐 Web Development:
+- PHP Native, MySQL, JavaScript  
+- Membangun aplikasi web yang sederhana & efisien  
+
+🚀 Saat ini saya terus mengembangkan skill di bidang **networking & backend development**.
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=RioDevTech&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://streak-stats.demolab.com/?user=RioDevTech&theme=algolia&hide_border=false)  
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=RioDevTech&theme=algolia&hide_border=false&layout=compact)
+## 🌐 Socials
+<p align="center">
+  <a href="https://tiktok.com/@riyoomc12"><img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@RiyoooMC12"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"/></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+<p align="center">
+
+<!-- Web -->
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br>
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/apache-D42029?style=for-the-badge&logo=apache&logoColor=white"/>
+<img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+
+<br>
+
+<!-- IT Support -->
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/mikrotik-293239?style=for-the-badge&logo=router&logoColor=white"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=RioDevTech&theme=algolia"/>
+  <img src="https://streak-stats.demolab.com/?user=RioDevTech&theme=algolia"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RioDevTech&layout=compact&theme=algolia"/>
+</p>
+
+---
+
+## 🚀 Quote
+> "Consistency beats talent."
