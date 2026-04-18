@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello World
 Saya adalah seorang IT Support dan Web Developer yang berfokus pada solusi teknis dan pengembangan aplikasi web. <br>Di bidang IT Support, saya terbiasa melakukan instalasi dan konfigurasi sistem operasi, troubleshooting hardware dan software, serta konfigurasi jaringan dasar termasuk MikroTik. <br>Di bidang Web Development, saya menggunakan PHP Native, MySQL, dan JavaScript untuk membangun aplikasi web yang sederhana, efisien, dan mudah digunakan. <br>Saya terus mengembangkan kemampuan di bidang jaringan dan backend development untuk menjadi profesional yang lebih kompeten.
 
 
