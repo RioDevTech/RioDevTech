@@ -25,13 +25,13 @@
 
 ## About Me
 
-I am an IT Support and Web Developer with a strong focus on delivering reliable technical solutions and building efficient, scalable web applications. I have hands-on experience in managing system environments, troubleshooting technical issues, and ensuring stable and secure IT operations.
+I am an IT Support and Web Developer with a strong focus on delivering reliable technical solutions and building efficient, scalable web applications. I have hands-on experience in managing system environments, troubleshooting technical issues, and ensuring stable and secure IT operations across various platforms.
 
-In the field of IT Support, I am experienced in installing and configuring operating systems, diagnosing and resolving hardware and software problems, and managing basic network configurations including MikroTik devices.
+In the field of IT Support, I am experienced in installing and configuring operating systems, diagnosing and resolving hardware and software problems, and managing basic network configurations including MikroTik devices. I am able to quickly identify issues and provide effective solutions to minimize downtime and maintain optimal system performance.
 
-On the development side, I work with PHP Native, MySQL, and JavaScript to build web applications that are clean, efficient, and user-friendly.
+On the development side, I work with PHP Native, MySQL, and JavaScript to build web applications that are clean, efficient, and user-friendly. I focus on writing structured code, optimizing performance, and creating systems that are easy to maintain and scale.
 
-I am continuously improving my skills in networking and backend development to become a well-rounded IT professional.
+I am continuously improving my skills in networking and backend development, aiming to become a well-rounded IT professional capable of handling both infrastructure and application development effectively.
 
 <br><br>
 
@@ -60,7 +60,7 @@ I am continuously improving my skills in networking and backend development to b
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/mikrotik" height="38"/>
+  <img src="https://cdn.simpleicons.org/mikrotik/ffffff" height="38"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/codeigniter/EF4223" height="38"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
