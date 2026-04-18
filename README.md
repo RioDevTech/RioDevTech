@@ -1,9 +1,9 @@
-<!-- 🔥 HEADER -->
+<!-- HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077FF&height=200&section=header&text=Rio%20Chandra&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- 👋 TITLE -->
+<!-- TITLE -->
 <h1 align="center">Hi, I'm Rio Chandra</h1>
 
 <p align="center">
@@ -40,10 +40,10 @@ Saat ini saya terus mengembangkan kemampuan di bidang networking dan backend dev
 
 <p align="center">
   <a href="https://tiktok.com/@riyoomc12">
-    <img src="https://cdn.simpleicons.org/tiktok/ffffff" height="30"/>
+    <img src="https://cdn.simpleicons.org/tiktok" height="30"/>
   </a>
   <a href="https://www.youtube.com/@RiyoooMC12">
-    <img src="https://cdn.simpleicons.org/youtube/ff0000" height="30"/>
+    <img src="https://cdn.simpleicons.org/youtube" height="30"/>
   </a>
 </p>
 
@@ -53,15 +53,15 @@ Saat ini saya terus mengembangkan kemampuan di bidang networking dan backend dev
 
 <p align="center">
 
-<!-- Main -->
+<!-- MAIN STACK -->
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,linux" />
 
 <br><br>
 
-<!-- Additional -->
-<img src="https://cdn.simpleicons.org/mikrotik/FF6C00" height="45"/>
-<img src="https://cdn.simpleicons.org/codeigniter/EF4223" height="45"/>
-<img src="https://cdn.simpleicons.org/apache/D42029" height="45"/>
+<!-- IT SUPPORT & FRAMEWORK -->
+<img src="https://cdn.simpleicons.org/mikrotik" height="45"/>
+<img src="https://cdn.simpleicons.org/codeigniter" height="45"/>
+<img src="https://cdn.simpleicons.org/apache" height="45"/>
 
 </p>
 
