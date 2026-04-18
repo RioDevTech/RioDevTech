@@ -26,12 +26,22 @@
 ## About Me
 
 <p align="center">
-IT Support dan Web Developer yang fokus pada solusi teknis dan pengembangan aplikasi web yang efisien dan stabil.<br><br>
+IT Support dan Web Developer yang fokus pada solusi teknis dan pengembangan aplikasi web yang efisien dan stabil.
+</p>
 
+<br>
+
+<p align="center">
+<strong>IT Support</strong><br>
 Instalasi & konfigurasi sistem operasi<br>
 Troubleshooting hardware & software<br>
-Konfigurasi jaringan (MikroTik)<br><br>
+Konfigurasi jaringan (MikroTik)
+</p>
 
+<br>
+
+<p align="center">
+<strong>Web Development</strong><br>
 PHP Native, MySQL, JavaScript<br>
 Membangun aplikasi web yang clean & mudah digunakan
 </p>
@@ -44,11 +54,11 @@ Membangun aplikasi web yang clean & mudah digunakan
 
 <p align="center">
   <a href="https://tiktok.com/@riyoomc12">
-    <img src="https://cdn.simpleicons.org/tiktok/ffffff" height="32"/>
+    <img src="https://cdn.simpleicons.org/tiktok/ffffff" height="30"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@RiyoooMC12">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" height="32"/>
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" height="30"/>
   </a>
 </p>
 
@@ -63,7 +73,7 @@ Membangun aplikasi web yang clean & mudah digunakan
 </p>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/mikrotik/FF6C00" height="36"/>
+  <img src="https://cdn.simpleicons.org/mikrotik" height="36"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/codeigniter/EF4223" height="36"/>
   &nbsp;&nbsp;&nbsp;
