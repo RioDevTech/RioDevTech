@@ -1,3 +1,4 @@
+
 <!-- HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=180&section=header&text=Rio%20Chandra&fontSize=40&fontColor=ffffff&animation=fadeIn" />
@@ -14,9 +15,9 @@
 
 <br>
 
-<!-- GIF -->
+<!-- GIF (FIXED FULL WIDTH) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="max-width:800px;" />
 </p>
 
 <br><br>
