@@ -6,7 +6,7 @@
 <br>
 
 <!-- TITLE -->
-<h1 align="center">Hello, I'm Rio Chandra.</h1>
+<h1 align="center">Rio Chandra</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=520&lines=IT+Support+%26+Web+Developer;PHP+%7C+MySQL+%7C+MikroTik;Linux+%7C+Networking;Always+Improving" />
@@ -25,13 +25,13 @@
 
 ## About Me
 
-I am an IT Support and Web Developer with a strong focus on delivering reliable technical solutions and building efficient, scalable web applications. I have hands-on experience in managing system environments, troubleshooting technical issues, and ensuring stable and secure IT operations across various platforms.
+I am an IT Support and Web Developer with a strong focus on delivering reliable technical solutions and building efficient, scalable web applications. I have hands-on experience in managing system environments, troubleshooting technical issues, and ensuring stable and secure IT operations.
 
-In the field of IT Support, I am experienced in installing and configuring operating systems, diagnosing and resolving hardware and software problems, and managing basic network configurations including MikroTik devices. I am able to quickly identify issues and provide effective solutions to minimize downtime and maintain optimal system performance.
+In the field of IT Support, I am experienced in installing and configuring operating systems, diagnosing and resolving hardware and software problems, and managing basic network configurations including MikroTik devices.
 
-On the development side, I work with PHP Native, MySQL, and JavaScript to build web applications that are clean, efficient, and user-friendly. I focus on writing structured code, optimizing performance, and creating systems that are easy to maintain and scale.
+On the development side, I work with PHP Native, MySQL, and JavaScript to build web applications that are clean, efficient, and user-friendly.
 
-I am continuously improving my skills in networking and backend development, aiming to become a well-rounded IT professional capable of handling both infrastructure and application development effectively.
+I am continuously improving my skills in networking and backend development to become a well-rounded IT professional.
 
 <br><br>
 
@@ -39,13 +39,13 @@ I am continuously improving my skills in networking and backend development, aim
 
 ## Connect
 
-<p align="center">
+<p>
   <a href="https://tiktok.com/@riyoomc12">
-    <img src="https://cdn.simpleicons.org/tiktok/ffffff" height="30"/>
+    <img src="https://cdn.simpleicons.org/tiktok/ffffff" height="32"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@RiyoooMC12">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" height="30"/>
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" height="32"/>
   </a>
 </p>
 
@@ -55,16 +55,16 @@ I am continuously improving my skills in networking and backend development, aim
 
 ## Tech Stack
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,linux" />
 </p>
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/mikrotik" height="36"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/codeigniter/EF4223" height="36"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/apache/D22128" height="36"/>
+<p>
+  <img src="https://cdn.simpleicons.org/mikrotik" height="38"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/codeigniter/EF4223" height="38"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/apache/D22128" height="38"/>
 </p>
 
 <br><br>
